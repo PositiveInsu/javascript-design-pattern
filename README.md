@@ -1,2 +1,2 @@
-# javascript-design-pattern
+# Javascript Design Pattern
 Practice Javascript design patterns.
